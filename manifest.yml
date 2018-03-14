@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: njssample
+  host: njssample
+  env:
+    CHANNEL_ACCESS_TOKEN: njWHj2DmVlsX7zkAWM/Bwgv58t4xtmMTrd2ZB2PWpyoPvpG0SKB29/g7WOfS+Bm+TRrcz43a3PqqtOTHsp8Ogzz2nL85zpQ/7bJgFhU1ckxbcBPuHtnBZTe8nfx/Qrt5OKOQ7UjJISllYKM+r6QR3QdB04t89/1O/w1cDnyilFU=
+    CHANNEL_SECRET: ab7ab5a2e31ff096f9beead4808d5e67
